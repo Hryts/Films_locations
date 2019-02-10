@@ -7,7 +7,7 @@ It also creates a layer with population represented on it
 
 To install what you need to run the programm
 ```sh
-$ sudo pip install requirements.txt
+$ sudo pip install -r requirements.txt
 ```
 
 ### Run
